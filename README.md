@@ -1,6 +1,6 @@
 This Python project creates a webcam monitoring system that detects motion and sends email alerts when motion is detected. Here's a brief description of how it works:
 
-###Video Capture: 
+#Video Capture: 
 The script captures video from the webcam using OpenCV's VideoCapture.
 
 ###Motion Detection:
